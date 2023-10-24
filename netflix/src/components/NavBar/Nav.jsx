@@ -1,8 +1,8 @@
 import React from 'react';
-
+import "../NavBar/NavBar.scss";
 const Nav = () => {
     return (
-        <div>
+        <div className='nav'>
 
         </div>
     )
